@@ -1,0 +1,6 @@
+.cabecalho-container-icone-titulo {
+    display: flex;
+    width: 40%;
+    align-items: center;
+    justify-content: space-around;
+}
