@@ -1,0 +1,14 @@
+.menu-navegacao__lista-item-link {
+    font-family: 'DM Serif Display', serif;
+    color: #855d0e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-navegacao__lista-item-link:active {
+    color: #855d0e;
+}
+
+.menu-navegacao__lista-item-link:hover {
+    color: #ead208;
+}
