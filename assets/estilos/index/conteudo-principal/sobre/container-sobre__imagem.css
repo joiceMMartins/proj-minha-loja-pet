@@ -1,0 +1,5 @@
+.container-sobre__imagem {
+    width: 300px;
+    float: left;
+    box-shadow: 0 0 10px black;
+}

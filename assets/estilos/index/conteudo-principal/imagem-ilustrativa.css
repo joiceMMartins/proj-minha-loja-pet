@@ -1,0 +1,6 @@
+.imagem-ilustrativa {
+    height: calc(90vh - 90px);
+    background-image: url(../../../imagens/colagem-de-animal-de-estimacao-bonito-isolada.jpg);
+    background-size: cover;
+    background-position: center;
+}
