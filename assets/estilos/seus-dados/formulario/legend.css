@@ -1,4 +1,4 @@
-.dados-pessoais__legend {
+.dados-pessoais__legend, .dados-endereco__legend, .dados-login__legend {
     font-family: 'Poppins', sans-serif;
     color: #855d0e;
     text-align: center;

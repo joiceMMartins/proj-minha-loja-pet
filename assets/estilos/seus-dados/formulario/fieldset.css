@@ -1,7 +1,6 @@
-.seus-dados {
-    padding: 3rem;
+.dados-pessoais, .dados-endereco, .dados-login {
+    border: none;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 5rem;
 }

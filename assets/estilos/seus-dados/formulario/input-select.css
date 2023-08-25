@@ -1,0 +1,8 @@
+input, select {
+    width: 70%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fdfee8;
+    margin-bottom: 1rem;
+}

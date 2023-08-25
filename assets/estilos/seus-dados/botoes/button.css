@@ -1,0 +1,7 @@
+.botao-enviar, .botao-limpar {
+    background-color: #ead208;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    color: #855d0e;
+}
