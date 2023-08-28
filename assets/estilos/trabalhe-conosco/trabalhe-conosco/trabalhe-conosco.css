@@ -1,0 +1,7 @@
+.trabalhe-conosco {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    padding-bottom: 5rem;
+}

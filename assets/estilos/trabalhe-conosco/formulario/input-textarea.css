@@ -1,0 +1,25 @@
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: #fdfee8;
+    border: none;
+    border-radius: 5px;
+    color: #855d0e;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type="submit"] {
+    background-color: #caa504;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+input[type="submit"]:hover {
+    background-color: transparent;
+    outline: 2px solid #ead208;
+    cursor: pointer;
+    color: #855d0e;
+}

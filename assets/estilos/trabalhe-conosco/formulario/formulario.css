@@ -1,0 +1,9 @@
+.formulario {
+    background-color: #fcfe8a;
+    padding: 2rem;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px #caa504;
+    font-family: 'Poppins', sans-serif;
+    color: #855d0e;
+}
